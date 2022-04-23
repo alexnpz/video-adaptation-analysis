@@ -1,0 +1,58 @@
+JSVM 9.19.14 Encoder
+
+   0 I IDR    0  QP 35  Y 30.2416 dB  U 41.7072 dB  V 44.3287 dB   bits   51320
+   1 P REF    4  QP 35  Y 30.2853 dB  U 38.7511 dB  V 41.1123 dB   bits   13776
+   2 B REF    2  QP 38  Y 30.1708 dB  U 39.2333 dB  V 41.7143 dB   bits    3736
+   3 B        1  QP 39  Y 29.8584 dB  U 39.8597 dB  V 42.3711 dB   bits    1968
+   4 B        3  QP 39  Y 29.9506 dB  U 39.0910 dB  V 41.8144 dB   bits    2376
+   5 P REF    8  QP 35  Y 29.9903 dB  U 38.7366 dB  V 40.9337 dB   bits   18680
+   6 B REF    6  QP 38  Y 29.9487 dB  U 38.8367 dB  V 40.9770 dB   bits    4168
+   7 B        5  QP 39  Y 29.8205 dB  U 39.2268 dB  V 41.4313 dB   bits    2544
+   8 B        7  QP 39  Y 29.7415 dB  U 38.9958 dB  V 41.2265 dB   bits    2528
+   9 P REF   12  QP 35  Y 30.3033 dB  U 38.6177 dB  V 41.0528 dB   bits   17464
+  10 B REF   10  QP 38  Y 29.8642 dB  U 38.5261 dB  V 40.8885 dB   bits    4416
+  11 B        9  QP 39  Y 29.7671 dB  U 38.8914 dB  V 41.4006 dB   bits    2584
+  12 B       11  QP 39  Y 29.7405 dB  U 38.4838 dB  V 41.2395 dB   bits    2768
+  13 P REF   16  QP 35  Y 30.3708 dB  U 37.9515 dB  V 40.5090 dB   bits   17720
+  14 B REF   14  QP 38  Y 30.5890 dB  U 38.4681 dB  V 40.7769 dB   bits    4040
+  15 B       13  QP 39  Y 30.0656 dB  U 38.6461 dB  V 41.2395 dB   bits    2888
+  16 B       15  QP 39  Y 30.1585 dB  U 38.3952 dB  V 41.4326 dB   bits    2496
+  17 P REF   20  QP 35  Y 30.4320 dB  U 38.0553 dB  V 40.2423 dB   bits   17888
+  18 B REF   18  QP 38  Y 29.9796 dB  U 37.9304 dB  V 41.0858 dB   bits    4048
+  19 B       17  QP 39  Y 29.9060 dB  U 38.2488 dB  V 41.2393 dB   bits    2656
+  20 B       19  QP 39  Y 29.7160 dB  U 38.0715 dB  V 41.0349 dB   bits    2520
+  21 P REF   24  QP 35  Y 29.9929 dB  U 38.1165 dB  V 40.4071 dB   bits   19216
+  22 B REF   22  QP 38  Y 30.1727 dB  U 37.7776 dB  V 40.9096 dB   bits    4160
+  23 B       21  QP 39  Y 30.0521 dB  U 37.7959 dB  V 41.1334 dB   bits    3176
+  24 B       23  QP 39  Y 29.8215 dB  U 37.8685 dB  V 40.9685 dB   bits    2832
+  25 P REF   28  QP 35  Y 30.2746 dB  U 37.6415 dB  V 39.7038 dB   bits   17344
+  26 B REF   26  QP 38  Y 30.0413 dB  U 37.9668 dB  V 41.0267 dB   bits    4208
+  27 B       25  QP 39  Y 29.8096 dB  U 37.8357 dB  V 41.0496 dB   bits    2344
+  28 B       27  QP 39  Y 29.9829 dB  U 37.5223 dB  V 40.7412 dB   bits    2840
+  29 P REF   32  QP 35  Y 30.1417 dB  U 37.9216 dB  V 40.0593 dB   bits   16472
+  30 B REF   30  QP 38  Y 30.0030 dB  U 37.6024 dB  V 40.7456 dB   bits    4304
+  31 B       29  QP 39  Y 29.8738 dB  U 37.6336 dB  V 40.7937 dB   bits    2520
+  32 B       31  QP 39  Y 29.8428 dB  U 37.5467 dB  V 40.8070 dB   bits    3040
+  33 P REF   36  QP 35  Y 30.1212 dB  U 38.1613 dB  V 40.4322 dB   bits   18624
+  34 B REF   34  QP 38  Y 29.9991 dB  U 37.7678 dB  V 41.0739 dB   bits    4592
+  35 B       33  QP 39  Y 29.8057 dB  U 37.5982 dB  V 40.9062 dB   bits    2808
+  36 B       35  QP 39  Y 29.9078 dB  U 37.8253 dB  V 41.0721 dB   bits    2968
+  37 P REF   40  QP 35  Y 29.9973 dB  U 37.9574 dB  V 40.6322 dB   bits   18536
+  38 B REF   38  QP 38  Y 29.7924 dB  U 37.5973 dB  V 41.1440 dB   bits    4280
+  39 B       37  QP 39  Y 29.7440 dB  U 37.5018 dB  V 41.2125 dB   bits    2832
+  40 B       39  QP 39  Y 29.8086 dB  U 37.5154 dB  V 41.0473 dB   bits    2872
+  41 P REF   44  QP 35  Y 30.3724 dB  U 37.7572 dB  V 40.2177 dB   bits   18416
+  42 B REF   42  QP 38  Y 30.1167 dB  U 37.4262 dB  V 41.2078 dB   bits    4720
+  43 B       41  QP 39  Y 29.8293 dB  U 37.4461 dB  V 41.2865 dB   bits    3064
+  44 B       43  QP 39  Y 29.8001 dB  U 37.3824 dB  V 41.3221 dB   bits    2680
+  45 P REF   48  QP 35  Y 30.2981 dB  U 38.0583 dB  V 40.5564 dB   bits   18608
+  46 B REF   46  QP 38  Y 30.1698 dB  U 37.6638 dB  V 41.1453 dB   bits    4176
+  47 B       45  QP 39  Y 30.1178 dB  U 37.2676 dB  V 41.1994 dB   bits    2976
+  48 B       47  QP 39  Y 29.9906 dB  U 37.4645 dB  V 41.0758 dB   bits    2880
+  49 B       49  QP 39  Y 29.8744 dB  U 37.3606 dB  V 40.8916 dB   bits    3544
+
+    50 frames encoded:  Y 30.0131 dB  U 38.1541 dB  V 41.0564 dB
+
+     average bit rate:  230.2896 kbit/s  [47977 byte for 1.667 sec]
+
+Encoding speed: 2020.080 ms/frame, Time:101004.000 ms, Frames: 50
